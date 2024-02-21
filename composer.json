@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/bulker",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yauheni.Nikifarau",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.8"
+  }
+}
