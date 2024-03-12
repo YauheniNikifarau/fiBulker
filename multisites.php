@@ -191,3 +191,4 @@ $multisites = array_map( function ( $item ) {
 }, $multisites );
 
 echo '[' . implode( ', ', $multisites ) . ']';
+
