@@ -1,5 +1,7 @@
 <?php
 
+
+
 // Remove all
 // Remove all campaigns
 // Run BM bulker
